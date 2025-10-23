@@ -1,0 +1,6 @@
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\bin\Debug\MapsManagerViewModels.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\bin\Debug\MapsManagerViewModels.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\obj\Debug\MapsManagerViewModels.csproj.AssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\obj\Debug\MapsManagerViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\obj\Debug\MapsManagerViewModels.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerViewModels\obj\Debug\MapsManagerViewModels.pdb

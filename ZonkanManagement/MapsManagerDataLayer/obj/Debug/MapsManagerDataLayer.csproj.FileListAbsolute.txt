@@ -1,0 +1,12 @@
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\MapsManagerDataLayer.dll.config
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\MapsManagerDataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\MapsManagerDataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Debug\MapsManagerDataLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Debug\MapsManagerDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Debug\MapsManagerDataLayer.csproj.CopyComplete
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Debug\MapsManagerDataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Debug\MapsManagerDataLayer.pdb

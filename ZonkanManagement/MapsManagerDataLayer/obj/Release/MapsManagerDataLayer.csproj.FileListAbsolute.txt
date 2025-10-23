@@ -1,0 +1,12 @@
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\MapsManagerDataLayer.dll.config
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\MapsManagerDataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\MapsManagerDataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\EntityFramework.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\EntityFramework.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Release\MapsManagerDataLayer.csproj.AssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Release\MapsManagerDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Release\MapsManagerDataLayer.csproj.CopyComplete
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Release\MapsManagerDataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2022\repo\VisitApp\MapsManager\MapsManagerDataLayer\obj\Release\MapsManagerDataLayer.pdb
