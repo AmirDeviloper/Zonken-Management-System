@@ -28,7 +28,8 @@ To run this project, you’ll need:
 
 ## 🖼️ Screenshots
 
-<img width="856" height="515" alt="Folder Management Screenshot" src="https://github.com/user-attachments/assets/c1cfb66f-562d-4613-810f-1a05f8ffbffd" />
+<img width="740" height="614" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/2eb3d31e-371e-49aa-984c-634e72b2dd24" />
+
 
 ---
 
